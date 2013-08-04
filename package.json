@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "tap": "*"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/shib71/extractdoc.git"
