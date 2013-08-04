@@ -1,0 +1,28 @@
+{
+  "name": "extractdoc",
+  "version": "0.0.1",
+  "description": "For extracting structured text from an existing document",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "tap": "*"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shib71/extractdoc.git"
+  },
+  "keywords": [
+    "extract",
+    "document"
+  ],
+  "author": "Blair McKenzie <shib71@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shib71/extractdoc/issues"
+  }
+}
