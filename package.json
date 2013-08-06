@@ -4,13 +4,16 @@
   "description": "For extracting structured text from an existing document",
   "main": "index.js",
   "scripts": {
-    "test": "tap ./test"
-  },
-  "dependencies": {
     
   },
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*",
+    "date-utils": "*",
+    "q": "*"
+  },
   "devDependencies": {
-    "tap": "*"
+    
   },
   "repository": {
     "type": "git",
